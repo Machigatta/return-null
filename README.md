@@ -2,7 +2,7 @@
 
 # return-null
 #### Starting Projects we won't finish
-> About Depression in Development
+> About Depression in Development and how to handle your projects correctly
 ---
 - [Chapter 1](/chapter_1/)
     + [Prologue](/chapter_1/Prologue.md)
